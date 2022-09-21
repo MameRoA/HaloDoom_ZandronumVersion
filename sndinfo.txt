@@ -1,0 +1,5 @@
+weapons/ARifle1			sounds/weapons/ARBass1.ogg
+weapons/ARifle2			sounds/weapons/ARBass2.ogg
+weapons/ARifle3			sounds/weapons/ARBass3.ogg
+weapons/ARifle4			sounds/weapons/ARBass4.ogg
+$random weapons/arifle { weapons/ARifle1 weapons/ARifle2 weapons/ARifle3 weapons/ARifle4 }
